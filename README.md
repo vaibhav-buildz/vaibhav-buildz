@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:16213e&height=200&section=header&text=Vaibhav%20Yadav&fontSize=56&fontColor=C0A0FF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Bug%20Bounty%20Hunter&descAlignY=62&descColor=a0a0c0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:8B0000&height=200&section=header&text=Vaibhav%20Yadav&fontSize=56&fontColor=FF4444&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Bug%20Bounty%20Hunter&descAlignY=62&descColor=cc6666&animation=fadeIn&stroke=FF0000&strokeWidth=1" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B+I'm+Vaibhav;Full+Stack+Developer+%F0%9F%92%BB;Bug+Bounty+Hunter+%F0%9F%94%8D;Building+secure+%26+elegant+web+apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&width=620&lines=Hello+World!+%F0%9F%91%8B+I'm+Vaibhav;Full+Stack+Developer+%F0%9F%92%BB;Bug+Bounty+Hunter+%F0%9F%94%8D;I+think+like+a+dev...+test+like+an+attacker+%F0%9F%A5%B7;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhav-buildz&label=Profile%20Views&color=7B2FBE&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhav-buildz&label=Profile%20Views&color=8B0000&style=flat)
+&nbsp;&nbsp;
 ![Followers](https://img.shields.io/github/followers/vaibhav-buildz?label=Followers&style=social)
 &nbsp;&nbsp;
 ![Stars](https://img.shields.io/github/stars/vaibhav-buildz?label=Stars&style=social)
@@ -25,7 +26,7 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🧑‍💻 About Me
+### 🥷 About Me
 
 ```typescript
 const vaibhav = {
@@ -113,10 +114,10 @@ const vaibhav = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-buildz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=vaibhav-buildz&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-buildz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=FF4444&title_color=FF4444&text_color=ffffff&bg_color=0d0d0d" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=vaibhav-buildz&theme=dark&hide_border=true&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&background=0d0d0d&sideLabels=ffffff&dates=aaaaaa" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-buildz&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-buildz&theme=dark&hide_border=true&layout=compact&langs_count=8&title_color=FF4444&text_color=ffffff&bg_color=0d0d0d" width="42%" />
 
 </div>
 
@@ -126,7 +127,7 @@ const vaibhav = {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=vaibhav-buildz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=vaibhav-buildz&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=FF4444)
 
 </div>
 
@@ -150,7 +151,7 @@ const vaibhav = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -158,6 +159,6 @@ const vaibhav = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D0D0D&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=C0A0FF&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:1a0000,100:0d0d0d&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=FF4444&fontAlignY=65&animation=fadeIn" />
 
 </div>
