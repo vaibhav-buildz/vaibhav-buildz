@@ -14,8 +14,7 @@
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=vaibhav-buildz&label=Profile%20Views&icon=5&color=9&pretty=true)
-&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhav-buildz&label=Profile%20Views&color=7B2FBE&style=flat)
 ![Followers](https://img.shields.io/github/followers/vaibhav-buildz?label=Followers&style=social)
 &nbsp;&nbsp;
 ![Stars](https://img.shields.io/github/stars/vaibhav-buildz?label=Stars&style=social)
