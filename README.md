@@ -109,10 +109,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-buildz&theme=tokyonight&hide_border=true&background=0D1117&stroke=94A3B8&ring=94A3B8&fire=F97316&currStreakLabel=94A3B8" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhav-buildz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-</p>
-
 ---
 
 ### 🎯 Focus Areas
