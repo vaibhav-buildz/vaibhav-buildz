@@ -65,6 +65,47 @@
 
 ---
 
+### 🧗 Advanced Skills — Learning Roadmap
+
+Skills I'm working through, one at a time, to go from full-stack developer to production-grade engineer:
+
+**System Design & Architecture**
+<p align="left">
+<img src="https://img.shields.io/badge/-System%20Design-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/-Microservices-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/-Load%20Balancing-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/-API%20Gateway-1E293B?style=flat-square" />
+</p>
+
+**Infra & DevOps**
+<p align="left">
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+**Data & Performance**
+<p align="left">
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/-Message%20Queues-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/-Database%20Indexing-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</p>
+
+**Reliability & Real-Time**
+<p align="left">
+<img src="https://img.shields.io/badge/-WebSockets-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/-Testing%20(Jest%2FPlaywright)-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/-Observability-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/-RBAC%20%26%20OAuth2-1E293B?style=flat-square" />
+</p>
+
+> Each of these gets picked up as part of an actual project, not studied in isolation — I'd rather learn caching by adding it to a real app than read about it in the abstract.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
