@@ -101,12 +101,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-buildz&show_icons=true&theme=default&hide_border=true&title_color=94A3B8&icon_color=94A3B8" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-buildz&layout=compact&hide_border=true&title_color=94A3B8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-buildz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=94A3B8&text_color=C9D1D9" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-buildz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=C9D1D9" height="180" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-buildz&hide_border=true&stroke=94A3B8&ring=94A3B8&fire=94A3B8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-buildz&theme=tokyonight&hide_border=true&background=0D1117&stroke=94A3B8&ring=94A3B8&fire=F97316&currStreakLabel=94A3B8" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vaibhav-buildz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 </p>
 
 ---
