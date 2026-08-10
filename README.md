@@ -2,7 +2,7 @@
 <h3 align="center">Final-year IT Student · Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+production-grade+full-stack+products;Full-Stack+Developer+%7C+Next.js+%2B+Supabase;Lead+Designer+%40+Blazion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+production-grade+full-stack+products;Full-Stack+Developer+%7C+Next.js+%2B+Supabase" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,8 +15,7 @@
 ### 🧭 About Me
 
 - 🎓 Final-year **B.Tech IT** student at IEC College of Engineering & Technology, Greater Noida
-- 🏢 **Lead Designer** at **Blazion** — building [Toolvise](#) (AI tech stack advisor) & [Blazion Form](#) (AI-powered form builder)
-- 🛠️ Actively building **Techmon** (full-stack social platform) and **Blazion Form** (solo project)
+- 🛠️ Actively building **Blazion Form** (solo project)
 - 💻 Daily driver: dual-boot **Kali Linux + Windows** on an Acer Nitro 5
 - ⚡ Workflow: Claude + Antigravity IDE for structured, spec-driven full-stack development
 
