@@ -14,10 +14,15 @@
 
 ### 🧭 About Me
 
-- 🎓 Final-year **B.Tech IT** student at IEC College of Engineering & Technology, Greater Noida
-- 🛠️ Actively building **Blazion Form** (solo project)
-- 💻 Daily driver: dual-boot **Kali Linux + Windows** on an Acer Nitro 5
-- ⚡ Workflow: Claude + Antigravity IDE for structured, spec-driven full-stack development
+- 🎓 **Education** — Final-year B.Tech in Information Technology at IEC College of Engineering & Technology, Greater Noida. My coursework and self-study both center on building real, deployable software rather than just theory — every concept I learn eventually turns into a working project.
+
+- 🛠️ **What I build** — I work across several full-stack products at once, from AI-powered form builders to internal tools and browser extensions. I like owning a product end-to-end: architecture, database design, UI, and deployment, not just one layer of the stack.
+
+- ⚡ **How I work** — My development workflow is spec-driven: I use Claude to turn ideas into precise, structured prompts, then execute them inside Antigravity IDE one focused step at a time. This keeps every feature intentional and traceable instead of guess-and-patch coding.
+
+- 💻 **My setup** — I run a dual-boot Kali Linux + Windows environment on an Acer Nitro 5, switching between them depending on whether I'm developing, testing, or exploring the systems side of things.
+
+- 📈 **Currently** — Splitting my time between shipping features across multiple active builds and deepening my full-stack fundamentals — databases, auth systems, and scalable architecture.
 
 ---
 
@@ -75,7 +80,9 @@
 
 ### 🎯 Focus Areas
 
-`Full-Stack Development` · `Next.js` · `Supabase` · `AI-Integrated Products`
+I'm primarily focused on **full-stack web development** — building products with Next.js, TypeScript, and Supabase from the ground up. Alongside that, I'm developing a strong interest in **AI-integrated products**, wiring LLM APIs directly into real user workflows instead of treating them as an add-on. I also spend time on the **systems and Linux side** through my daily Kali Linux environment, which keeps me comfortable working close to the OS.
+
+`Full-Stack Development` · `Next.js` · `Supabase` · `AI-Integrated Products` · `System Fundamentals`
 
 ---
 
