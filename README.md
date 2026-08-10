@@ -63,12 +63,6 @@
 <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
 
----
-
-### 🧗 Advanced Skills — Learning Roadmap
-
-Skills I'm working through, one at a time, to go from full-stack developer to production-grade engineer:
-
 **System Design & Architecture**
 <p align="left">
 <img src="https://img.shields.io/badge/-System%20Design-1E293B?style=flat-square" />
@@ -101,8 +95,6 @@ Skills I'm working through, one at a time, to go from full-stack developer to pr
 <img src="https://img.shields.io/badge/-Observability-1E293B?style=flat-square" />
 <img src="https://img.shields.io/badge/-RBAC%20%26%20OAuth2-1E293B?style=flat-square" />
 </p>
-
-> Each of these gets picked up as part of an actual project, not studied in isolation — I'd rather learn caching by adding it to a real app than read about it in the abstract.
 
 ---
 
