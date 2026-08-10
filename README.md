@@ -49,14 +49,6 @@
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-**Currently Learning**
-<p align="left">
-<img src="https://img.shields.io/badge/-RBAC-6E56CF?style=flat-square" />
-<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
 **Dev Tools & Platforms**
 <p align="left">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -66,18 +58,6 @@
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Techmon](https://techmon-cpea.vercel.app)** | Full-stack social platform — auth, posts/stories, DMs with Realtime, groups, jobs board, admin panel | Next.js · Supabase · Vercel |
-| **[Blazion Form](https://blazion-form.vercel.app)** | AI-powered form builder — drag-to-reorder builder, public form fill, response dashboard | Next.js · TypeScript · Supabase · Claude API |
-| **Blazion** | Startup site for an AI-native product suite (Toolvise, Blazion Form) | Next.js · Tailwind |
-| **Metadata Forensics Tool** | Image metadata extraction, GPS-to-address, tamper detection, hash fingerprinting | Python · FastAPI · React · OpenCV |
-| **Password Genius** | Browser extension for memorable passphrase generation + breach checking | Manifest V3 · JavaScript |
 
 ---
 
