@@ -153,7 +153,7 @@ Consistently practicing **DSA and competitive programming** through LeetCode.
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID/">
+  <a href="https://(https://leetcode.com/u/vaibhav-buildz/)">
     <img src="https://img.shields.io/badge/LeetCode-YOUR_LEETCODE_ID-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://github.com/vaibhav-buildz">
