@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/vaibhav9935/">
     <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Yadav-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID/">
+  <a href="https://leetcode.com/u/vaibhav-buildz/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
 </p>
